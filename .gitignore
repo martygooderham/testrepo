@@ -1,0 +1,13 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/testrepo/v17/TestStore/0/testlog.manifest
+/.vs/testrepo/v17/TestStore/0/000.testlog
+/.vs/testrepo/v17/TestStore/0
+/.vs/testrepo/FileContentIndex/read.lock
+/.vs/testrepo/FileContentIndex/74539104-b278-4285-ac15-676d2f5103e7.vsidx
+/.vs/testrepo/FileContentIndex
+/.vs/testrepo
+/.vs/slnx.sqlite
+/.vs
